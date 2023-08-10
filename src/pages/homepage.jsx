@@ -1,5 +1,5 @@
 import React from "react";
-import Calculator from "../component/calculator";
+import Calculator from "../component/HomeCalculator";
 
 function Homepage() {
   return (
