@@ -1,3 +1,7 @@
+# Netlify
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -9,4 +13,4 @@ Currently, two official plugins are available:
 
 # Frontend Mentor - Age calculator app
 
-![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Age calculator app coding challenge](./src/design/desktop-preview.jpg)
